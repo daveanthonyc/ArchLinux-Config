@@ -11,3 +11,5 @@ pfn() {
 dsk() {
   cd ~/Desktop
 }
+
+# ~/.bashrc
