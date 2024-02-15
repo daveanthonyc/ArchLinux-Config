@@ -5,12 +5,20 @@ This article has helped me solve the issue [Blog Post](https://www.reddit.com/r/
 
 ## Installation guide for facetimehd driver
 `cd ~`
+
 `git clone https://aur.archlinux.org/facetimehd-firmware.git`
+
 `cd facetimehd-firmware`
+
 `sudo pacman -Sy`
+
 `makepkg -si`
 
+
 `cd ..`
+
 `git clone https://aur.archlinux.org/bcwc-pcie-git.git`
+
 `cd bcwc-pcie-git`
+
 `makepkg -si`
